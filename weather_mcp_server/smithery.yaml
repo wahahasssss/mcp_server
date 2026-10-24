@@ -26,3 +26,4 @@ tools:
     description: List all supported cities
   - name: get_server_info
     description: Get server information
+

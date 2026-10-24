@@ -9,11 +9,11 @@ description = "Real-time weather query MCP server based on HelloAgents framework
 readme = "README.md"
 license = {text = "MIT"}
 authors = [
-    {name = "HelloAgents Team", email = "xxx"}
+    {name = "HelloAgents Team", email = "jjyaoao@126.com"}
 ]
 requires-python = ">=3.10"
 dependencies = [
-    "hello-agents>=0.2.1",
+    "hello-agents>=0.2.2",
     "requests>=2.31.0",
 ]
 
@@ -24,3 +24,4 @@ Repository = "https://github.com/yourusername/weather-mcp-server"
 
 [tool.setuptools]
 py-modules = ["server"]
+
